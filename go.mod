@@ -1,3 +1,3 @@
-module github.com/Zauberstuhl/go-coinbase
+module github.com/clintonmbah/go-coinbase
 
 go 1.14
