@@ -64,6 +64,7 @@ type APITransactionsDataDetails struct {
 type APITransactionsDataNetwork struct {
 	Status string
 	Name   string
+	Hash   string
 }
 type APITransactionsData struct {
 	Id                  string
